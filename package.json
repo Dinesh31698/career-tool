@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.13.5",
     "react": "^19.2.4",
+    "react-circular-progressbar": "^2.2.0",
     "react-dom": "^19.2.4",
     "react-hot-toast": "^2.6.0",
     "react-router-dom": "^7.13.1",
@@ -39,4 +40,12 @@
       "last 1 safari version"
     ]
   }
+}
+"dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "react-router-dom": "^6.0.0",
+  "react-hot-toast": "^2.4.0",
+  "react-circular-progressbar": "^2.1.0",
+  "react-scripts": "5.0.1"
 }
